@@ -5,6 +5,6 @@ module.exports = defineConfig({
 })
 
 module.exports = {
-  publicPath: '/forecast',
+  publicPath: '/vueForecast',
   outputDir: 'docs'
 }
